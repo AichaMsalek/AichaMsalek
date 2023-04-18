@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.myportfolio.com/00fd3cc9ba5aca23d35be902d5a97d19/3867e4fb-a96d-4ab3-be86-5dd5d26dc47d_rw_1200.gif?h=7d14d523a0573ea2c5316345a8273bc0)
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQHLXtKnrSowyg/article-cover_image-shrink_600_2000/0/1615453560799?e=2147483647&v=beta&t=LZCSvjwUgg5tTs2_ELGpivhLcFzbJLVwG5gQHKS-rDA)
 <h1 align="center">Hi 👋, I'm Aicha Msalek</h1>
 <h3 align="center">I'm a stuent in Data Engineering and Artificial Intelligence</h3>
 
