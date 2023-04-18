@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4f/2d/d9/4f2dd9c9cdb4c87cfbffe922f710dea6.gif)
+![MasterHead](https://i.pinimg.com/564x/6b/37/bf/6b37bf9934bbec83f469908414c5df84.jpg)
 <h1 align="center">Hi 👋, I'm Aicha Msalek</h1>
 <h3 align="center">I'm a stuent in Data Engineering and Artificial Intelligence</h3>
 
