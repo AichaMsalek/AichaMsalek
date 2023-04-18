@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Aicha Msalek</h1>
 <h3 align="center">I'm a stuent in Data Engineering and Artificial Intelligence</h3>
 
-- 📫 How to reach me **msalekaicha@gmail.com**
+- 🔭 I’m currently working on [Wildfire prediction system based on satellite images](https://github.com/abdouaaba/wildfire-prediction)
+- 📫 How to reach me msalekaicha@gmail.com
 
 
 
