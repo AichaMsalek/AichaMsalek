@@ -1,7 +1,8 @@
- <p align="center">
+ 
+<h1 align="center">Hi 👋, I'm Aicha Msalek</h1>
+<p align="right">
   <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif" />
 </p>
-<h1 align="center">Hi 👋, I'm Aicha Msalek</h1>
 <h3 align="center">I'm a stuent in Data Engineering and Artificial Intelligence</h3>
 
 - 🔭 I’m currently working on [Wildfire prediction system based on satellite images](https://github.com/abdouaaba/wildfire-prediction)
