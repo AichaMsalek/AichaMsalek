@@ -1,9 +1,8 @@
  
-<h1 align="center">Hi 👋, I'm Aicha Msalek</h1>
-<p align="right">
-  <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif" />
-</p>
-<h3 align="center">I'm a stuent in Data Engineering and Artificial Intelligence</h3>
+<h1 align="center">Hi 👋, It's Aicha Msalek</h1>
+<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/61304afeafa2c126c1aa53d4_Business%20Plan.gif"</img>
+<h3 align="left">A Data Science and AI Engineering Student</h3>
+<p>I am currently a data science and artificial intelligence engineering student with a passion for exploring data and using technology to solve real-world problems. During my studies, I acquired a solid understanding of the main concepts of data science and AI, as well as practical skills in programming, data analysis and machine learning.<p>
 
 - 🔭 I’m currently working on [Wildfire prediction system based on satellite images](https://github.com/abdouaaba/wildfire-prediction)
 - 📫 How to reach me msalekaicha@gmail.com
