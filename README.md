@@ -5,6 +5,7 @@
 <p>I am currently a data science and artificial intelligence engineering student with a passion for exploring data and using technology to solve real-world problems. During my studies, I acquired a solid understanding of the main concepts of data science and AI, as well as practical skills in programming, data analysis and machine learning.<p>
 
 - 🔭 I’m currently working on [Wildfire prediction system based on satellite images](https://github.com/abdouaaba/wildfire-prediction)
+- 👨‍💻 All of my projects are available at [https://github.com/AichaMsalek?tab=repositories](https://github.com/AichaMsalek?tab=repositories)
 - 📫 How to reach me msalekaicha@gmail.com
 
 
