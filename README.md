@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi 👋, Welcome to my GitHub profile!</h1>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/61304afeafa2c126c1aa53d4_Business%20Plan.gif"</img>
-<h3 align="left">It's Aicha Msalek Student</h3>
+<h3 align="left">It's Aicha Msalek</h3>
 <p>I am currently a data science and artificial intelligence engineering student with a passion for exploring data and using technology to solve real-world problems. During my studies, I acquired a solid understanding of the main concepts of data science and AI, as well as practical skills in programming, data analysis and machine learning.<p>
 
 - 🔭 I’m currently working on [Wildfire prediction system based on satellite images](https://github.com/abdouaaba/wildfire-prediction)
