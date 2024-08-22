@@ -4,7 +4,6 @@
 <h3 align="left">It's Aicha Msalek</h3>
 <p>I am a Junior Data Scientist and Artificial Intelligence Engineer with a passion for leveraging data and AI techniques to deliver innovative and efficient solutions. I have developed a solid understanding of the core concepts in data science and AI, with expertise in machine learning, deep learning, and natural language processing. My practical skills extend to data analysis and visualization, utilizing tools such as Power BI, Tableau, and Python libraries to present complex data in a clear and impactful manner. I am also committed to continuous learning and eager to seize opportunities to further develop my skills and contribute effectively in this dynamic field.<p>
 
-- 🔭 I’m currently working on [Wildfire prediction system based on satellite images](https://github.com/abdouaaba/wildfire-prediction)
 - 👨‍💻 All of my projects are available at [https://github.com/AichaMsalek?tab=repositories](https://github.com/AichaMsalek?tab=repositories)
 - 📫 How to reach me msalekaicha@gmail.com
 
