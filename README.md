@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub profile!</h1>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/61304afeafa2c126c1aa53d4_Business%20Plan.gif"</img>
 <h3 align="left">It's Aicha Msalek</h3>
-<p>I am currently a data science and artificial intelligence engineering student with a passion for exploring data and using technology to solve real-world problems. During my studies, I acquired a solid understanding of the main concepts of data science and AI, as well as practical skills in programming, data analysis and machine learning.<p>
+<p>I am a Junior Data Scientist and Artificial Intelligence Engineer with a passion for leveraging data and AI techniques to deliver innovative and efficient solutions. I have developed a solid understanding of the core concepts in data science and AI, with expertise in machine learning, deep learning, and natural language processing. My practical skills extend to data analysis and visualization, utilizing tools such as Power BI, Tableau, and Python libraries to present complex data in a clear and impactful manner. I am also committed to continuous learning and eager to seize opportunities to further develop my skills and contribute effectively in this dynamic field.<p>
 
 - 🔭 I’m currently working on [Wildfire prediction system based on satellite images](https://github.com/abdouaaba/wildfire-prediction)
 - 👨‍💻 All of my projects are available at [https://github.com/AichaMsalek?tab=repositories](https://github.com/AichaMsalek?tab=repositories)
